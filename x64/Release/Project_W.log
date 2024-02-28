@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\PG\Project_W\Project_W\main.cpp(157,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\PG\Project_W\Project_W\main.cpp(158,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1 of 1820 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project_W.vcxproj -> D:\PG\Project_W\x64\Release\Project_W.exe

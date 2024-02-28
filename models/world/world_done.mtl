@@ -1,0 +1,144 @@
+# Blender 4.0.2 MTL File: 'None'
+# www.blender.org
+
+newmtl 01___Default
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd dolphin/10014_dolphin_v1_L3.123c87c4405d-8340-49e7-9aac-bec76c253dc0/10014_dolphin_v1_Diffuse.jpg
+
+newmtl 13___Default
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd horse/10026_Horse_v01_L3.123cf7625b3f-e79f-4633-9dc6-46d06c7bb985/Horse_v01.jpg
+
+newmtl Australian_Cattle_Dog
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.180000 0.180000 0.180000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd dog/Australian_Cattle_Dog_v1_L3.123c9c6a5764-399b-4e86-9897-6bcb08b5e8ed/Australian_Cattle_Dog_dif.jpg
+map_Bump dog/Australian_Cattle_Dog_v1_L3.123c9c6a5764-399b-4e86-9897-6bcb08b5e8ed/Australian_Cattle_Dog_bump.jpg
+
+newmtl Glass
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.764745 0.456507
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.222222
+illum 9
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd bridge.jpg
+
+newmtl Material.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textura.png
+
+newmtl Material.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd old-boat.jpg
+
+newmtl Material.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd g.jpg
+
+newmtl Material.006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd bench.jpg
+
+newmtl Material.007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd water_t.jpg
+
+newmtl Material.009
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.150794 0.150794 0.150794
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd grey-concrete-texture.jpg
+
+newmtl Metal
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd grey-concrete-texture.jpg
+
+newmtl None
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd grey-concrete-texture.jpg
+
+newmtl lambert13SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd farmhouse/FarmhouseTexture.jpg
+map_Bump farmhouse/FarmhouseTextureBumpMap.jpg -bm 0.012
